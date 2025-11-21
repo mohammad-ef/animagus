@@ -1,1 +1,1 @@
-Choose this file as the one that is not fit.
+Choose this file as the one that does not fit.
